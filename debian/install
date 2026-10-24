@@ -1,0 +1,3 @@
+files/ca_ES-upc_pau-x_low.onnx usr/share/piper-voices
+files/ca_ES-upc_pau-x_low.onnx.json usr/share/piper-voices
+files/MODEL_CARD usr/share/doc/piper-tts-voices-ca
