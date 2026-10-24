@@ -1,0 +1,18 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: piper-tts-voices-en
+
+Files: *
+Copyright: 2026 M.Angel Juan <m.angel.juan@gmail.com>
+License: GPL-3+
+ GPL-3.0-or-later - https://www.gnu.org/licenses/gpl-3.0.html
+
+Files: voices.json
+Copyright: rhasspy/piper-voices contributors
+License: MIT
+ MIT - https://opensource.org/license/mit
+
+Files: files/*
+Copyright: Voice Factory International, Inc. and Lessac Technologies, Inc.
+License: Lessac-Blizzard-2013-Research
+ Lessac-Blizzard-2013-Research - https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html
+ Research use only; redistribution requires prior written consent.
