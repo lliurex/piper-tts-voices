@@ -1,0 +1,13 @@
+files/
+*.deb
+*.buildinfo
+*.changes
+*.dsc
+*.tar.gz
+__pycache__/
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/*.substvars
+debian/*.debhelper
+debian/piper-tts-voices-*/
