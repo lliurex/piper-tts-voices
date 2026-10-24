@@ -1,0 +1,21 @@
+Source: piper-tts-voices-ca
+Section: sound
+Priority: optional
+Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Build-Depends: debhelper-compat (= 13),
+               ca-certificates,
+               curl | wget,
+               python3
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+
+Package: piper-tts-voices-ca
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: piper-tts-server
+Description: Piper voice ca_ES-upc_pau-x_low (Catalan, x_low)
+ Voice model for Piper TTS: ca_ES-upc_pau-x_low (locale ca_ES, quality
+ x_low, 1 speaker(s), about 26.8 MB) downloaded from
+ rhasspy/piper-voices.
+ .
+ Installs into /usr/share/piper-voices and is used by piper-tts-server.

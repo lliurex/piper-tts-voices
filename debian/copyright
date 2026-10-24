@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: piper-tts-voices-ca
+
+Files: *
+Copyright: 2026 M.Angel Juan <m.angel.juan@gmail.com>
+License: GPL-3+
+ GPL-3.0-or-later - https://www.gnu.org/licenses/gpl-3.0.html
+
+Files: voices.json
+Copyright: rhasspy/piper-voices contributors
+License: MIT
+ MIT - https://opensource.org/license/mit
+
+Files: files/*
+Copyright: CollectivaT / Universitat Politecnica de Catalunya (upc_festcat_tts_corpora)
+License: CC-BY-SA-3.0
+ CC-BY-SA-3.0 (declared as CC BY-SA 3.0 ES) - https://creativecommons.org/licenses/by-sa/3.0/

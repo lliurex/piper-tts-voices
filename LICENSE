@@ -1,0 +1,8 @@
+piper-tts-voices
+Copyright (C) 2026 M.Angel Juan <m.angel.juan@gmail.com>
+
+SPDX-License-Identifier: GPL-3.0-or-later
+https://www.gnu.org/licenses/gpl-3.0.html
+
+Voice model files are third-party content and keep their original licenses
+(see debian/copyright and MODEL_CARD).
