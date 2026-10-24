@@ -1,0 +1,2 @@
+# the voice model files are downloaded during the build and are not part of the native source package
+superfluous-file-pattern files/*
