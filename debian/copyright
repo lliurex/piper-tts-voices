@@ -1,0 +1,18 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: piper-tts-voices-ar
+
+Files: *
+Copyright: 2026 M.Angel Juan <m.angel.juan@gmail.com>
+License: GPL-3+
+ GPL-3.0-or-later - https://www.gnu.org/licenses/gpl-3.0.html
+
+Files: voices.json
+Copyright: rhasspy/piper-voices contributors
+License: MIT
+ MIT - https://opensource.org/license/mit
+
+Files: files/*
+Copyright: the upstream voice contributors (see MODEL_CARD)
+License: no-license-declared
+ no-license-declared
+ No license is declared by the upstream dataset or MODEL_CARD.
