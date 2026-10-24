@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: piper-tts-voices-de
+
+Files: *
+Copyright: 2026 M.Angel Juan <m.angel.juan@gmail.com>
+License: GPL-3+
+ GPL-3.0-or-later - https://www.gnu.org/licenses/gpl-3.0.html
+
+Files: voices.json
+Copyright: rhasspy/piper-voices contributors
+License: MIT
+ MIT - https://opensource.org/license/mit
+
+Files: files/*
+Copyright: Thorsten Mueller (Thorsten-Voice)
+License: CC0-1.0
+ CC0-1.0 - https://creativecommons.org/publicdomain/zero/1.0/
