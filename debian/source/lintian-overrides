@@ -1,0 +1,4 @@
+# the voice model files are downloaded during the build and are not part of the native source package
+superfluous-file-pattern files/*
+# license text intentionally omitted: only the SPDX identifier and URL are used
+incomplete-creative-commons-license

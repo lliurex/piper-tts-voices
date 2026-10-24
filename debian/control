@@ -1,0 +1,21 @@
+Source: piper-tts-voices-fr
+Section: sound
+Priority: optional
+Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Build-Depends: debhelper-compat (= 13),
+               ca-certificates,
+               curl | wget,
+               python3
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+
+Package: piper-tts-voices-fr
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: piper-tts-server
+Description: Piper voice fr_FR-siwis-medium (French, medium)
+ Voice model for Piper TTS: fr_FR-siwis-medium (locale fr_FR, quality
+ medium, 1 speaker(s), about 60.3 MB) downloaded from
+ rhasspy/piper-voices.
+ .
+ Installs into /usr/share/piper-voices and is used by piper-tts-server.
